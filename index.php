@@ -20,14 +20,11 @@
 <link rel="apple-touch-icon" href="https://www.walgreens.com/images/adaptive/share/images/logos/Mobile_Logo_DD.png">
 <meta name="msapplication-TileImage" content="images/adaptive/share/images/logos/Mobile_Logo_DD.png">
 <meta name="msapplication-TileColor" content="#2F3BA2">
-<meta http-equiv="x-dns-prefetch-control" content="on">
+<meta http-equiv="x-dns-prefetch-control" content="off">
+<link rel="dns-prefetch" href="https://sb.monetate.net/"><script src="assets/js"></script><script type="text/javascript" async="" src="assets/i.js"></script><script type="text/javascript" async="" src="assets/conversion_async.js"></script><script type="text/javascript" async="" src="assets/js(1)"></script><script type="text/javascript" async="" src="assets/76930u.js"></script><script type="text/javascript" src="assets/custom.js" charset="utf-8" async=""></script><script type="text/javascript" src="assets/jquery.min-bb297ca4879b9531d4c5c281d8e06074.js"></script>
+  <meta http-equiv="x-dns-prefetch-control" content="off">
 
-<link rel="dns-prefetch" href="https://www.wag-static.com/">
-		<link rel="dns-prefetch" href="https://smetrics.walgreens.com/">
-		<link rel="dns-prefetch" href="https://assets.adobedtm.com/">
-		<link rel="dns-prefetch" href="https://ecomuem.walgreens.com/">
-	<link rel="dns-prefetch" href="https://ad.monetate.net/"><link rel="dns-prefetch" href="https://sb.monetate.net/"><script src="assets/js"></script><script type="text/javascript" async="" src="assets/i.js"></script><script type="text/javascript" async="" src="assets/conversion_async.js"></script><script type="text/javascript" async="" src="assets/js(1)"></script><script type="text/javascript" async="" src="assets/76930u.js"></script><script type="text/javascript" src="assets/custom.js" charset="utf-8" async=""></script><script type="text/javascript" src="assets/jquery.min-bb297ca4879b9531d4c5c281d8e06074.js"></script>
-				<script src="assets/entry.js" type="text/javascript"></script><script>
+        <script src="assets/entry.js" type="text/javascript"></script><script>
      var IsNativeApp = 'false';
      if(IsNativeApp == "true"){
       $('head').append('<style>.wag-nav-strip-one.wag-header-nav-strip,.wag-nav-strip-two.wag-header-nav-secondary-strip{display:none}</style>');
