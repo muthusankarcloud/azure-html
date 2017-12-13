@@ -23,15 +23,22 @@
 <meta http-equiv="x-dns-prefetch-control" content="off">
 <link rel="dns-prefetch" href="https://sb.monetate.net/"><script src="assets/js"></script><script type="text/javascript" async="" src="assets/i.js"></script><script type="text/javascript" async="" src="assets/conversion_async.js"></script><script type="text/javascript" async="" src="assets/js(1)"></script><script type="text/javascript" async="" src="assets/76930u.js"></script><script type="text/javascript" src="assets/custom.js" charset="utf-8" async=""></script><script type="text/javascript" src="assets/jquery.min-bb297ca4879b9531d4c5c281d8e06074.js"></script>
   <meta http-equiv="x-dns-prefetch-control" content="off">
-  <meta http-equiv="Expires" content="Mon, 26 Jul 1997 05:00:00 GMT">
-<meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="no-cache">
+  <meta http-equiv="Expires" content="-1">
+  <meta http-equiv="Cache-Control" content="no-cache"> 
 
   <?php
 
 header("Pragma: no-cache");
 header("Cache: no-cache");
-header("Cache-Control: no-cache, must-revalidate");
 header("Expires: Mon, 9 Jul 1995 05:00:00 GMT"); 
+
+header( "Cache-Control: no-store,no-cache, must-revalidate" );
+header( "Cache-Control: post-check=0, pre-check=0", FALSE);
+header( "Pragma: no-cache" );
+
+
 
 ?> 
 
